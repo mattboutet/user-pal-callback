@@ -28,7 +28,9 @@ module.exports = new Confidence.Store({
         {
             plugin: {
                 register: '../lib', // Main plugin
-                options: {}
+                options: {
+                    jwtKey: process.env.JWT_SECRET
+                }
             }
         },
         {
