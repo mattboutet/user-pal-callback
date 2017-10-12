@@ -9,7 +9,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "bcrypt": "1.0.x",
     "boom": "5.x.x",
     "hapi-auth-jwt2": "7.3.x",
     "haute-couture": "2.x.x",
@@ -18,6 +17,7 @@
     "objection": "0.8.x",
     "pg": "7.3.x",
     "schwifty": "2.x.x",
+    "secure-password": "^2.1.1",
     "tandy": "0.x.x"
   },
   "devDependencies": {
