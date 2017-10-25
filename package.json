@@ -18,7 +18,8 @@
     "pg": "7.3.x",
     "schwifty": "2.x.x",
     "secure-password": "^2.1.1",
-    "tandy": "0.x.x"
+    "tandy": "0.x.x",
+    "uuid": "3.x.x"
   },
   "devDependencies": {
     "confidence": "3.x.x",
